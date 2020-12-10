@@ -58,6 +58,9 @@
         width: 500px;
         margin-left: 300px;
     }
+    .test2 h4{
+        margin-top: 100px !important;
+    }
 }
 
 .box3 h1{
@@ -124,5 +127,9 @@ section{
     height: 20px;
     background-color: #18dcff;
     z-index:1;
+}
+
+.test2 h4{
+    margin-top: 10px !important;
 }
 
